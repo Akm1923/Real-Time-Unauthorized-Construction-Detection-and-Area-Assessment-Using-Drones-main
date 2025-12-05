@@ -36,8 +36,6 @@ Geospatial tools such as QGIS or GDAL
 Installation
 bash
 Copy code
-# Clone the repository  
-git clone https://github.com/pranjalpandeyl221/Real-Time-Unauthorized-Construction-Detection-and-Area-Assessment-Using-Drones  
 
 # Navigate to the directory  
 cd Real-Time-Unauthorized-Construction-Detection-and-Area-Assessment-Using-Drones  
@@ -46,6 +44,6 @@ Applications
 Real-time monitoring of unauthorized construction in urban and rural areas.
 Compliance checks for building regulations.
 Land management and resource planning.
-Demo
-📹 Watch the Project Demo on YouTube
+
+
 
